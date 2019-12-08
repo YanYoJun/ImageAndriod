@@ -1,4 +1,4 @@
-package com.plbear.imageandriod
+package com.plbear.imageandroid
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

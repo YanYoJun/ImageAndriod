@@ -1,4 +1,4 @@
-package com.plbear.imageandriod
+package com.plbear.imageandroid
 
 import org.junit.Test
 

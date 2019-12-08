@@ -1,4 +1,4 @@
-package com.plbear.imageandriod.base
+package com.plbear.imageandroid.base
 
 import android.app.Application
 
