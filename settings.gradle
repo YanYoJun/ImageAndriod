@@ -1,2 +1,2 @@
-include ':app'
+include ':app',':opencv_java'
 rootProject.name='ImageAndriod'
